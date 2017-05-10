@@ -1,3 +1,2 @@
 # loterry
-
-begins
+## ทำนายผลหวย
