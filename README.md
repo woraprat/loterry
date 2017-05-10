@@ -1,0 +1,3 @@
+# loterry
+
+begins
